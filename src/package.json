@@ -1,0 +1,14 @@
+{
+  "name": "homework6-sort-service",
+  "version": "1.0.0",
+  "description": "Web排序服务与AI问答应用",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
